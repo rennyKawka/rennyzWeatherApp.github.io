@@ -1,0 +1,13 @@
+{
+    "name": "An event weather app",
+    "short_name": "E-Weather App",
+    "start_url": ".",
+    "background_color": "#575656",
+    "theme_color": "#eaeaea",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "img/"
+        }
+    ]
+}

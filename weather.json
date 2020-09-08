@@ -1,0 +1,32 @@
+{"city":{
+    "id":14256,
+    "name":"Azadshahr",
+    "findname":"AZADSHAHR",
+    "country":"IR",
+    "coord":{
+        "lon":48.570728,
+        "lat":34.790878},
+    "zoom":10},
+    "time":1554462304,
+    "main":{
+        "temp":287.07,
+        "pressure":1022,
+        "humidity":71,
+        "temp_min":284.15,
+        "temp_max":289.15},
+    "wind":{
+        "speed":4.1,
+        "deg":340},
+    "clouds":{"all":90},
+    "weather":[{
+        "id":804,
+        "main":"Clouds",
+        "description":"overcast clouds",
+        "icon":"04d"
+        }]
+}
+{"city":{"id":56166,"name":"Jilib","findname":"JILIB","country":"SO","coord":{"lon":42.785351,"lat":0.48829},"zoom":9},"time":1554462304,"main":{"temp":309.929,"pressure":1008.39,"humidity":36,"temp_min":309.929,"temp_max":309.929},"wind":{"speed":5.72,"deg":104},"clouds":{"all":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}]}
+{"city":{"id":55671,"name":"Kismaayo","findname":"KISMAAYO","country":"SO","coord":{"lon":42.545361,"lat":-0.35817},"zoom":6},"time":1554462304,"main":{"temp":301.329,"pressure":1009.87,"humidity":100,"temp_min":301.329,"temp_max":301.329},"wind":{"speed":6.12,"deg":103.5},"clouds":{"all":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}]}
+{"city":{"id":60019,"name":"Eyl","findname":"EYL","country":"SO","coord":{"lon":49.816399,"lat":7.9803},"zoom":5},"time":1554462304,"main":{"temp":302.229,"pressure":1010.67,"humidity":80,"temp_min":302.229,"temp_max":302.229},"wind":{"speed":5.02,"deg":111.5},"clouds":{"all":0},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}]}
+{"city":{"id":23814,"name":"Kahriz","findname":"KAHRIZ","country":"IR","coord":{"lon":47.055302,"lat":34.383801},"zoom":7},"time":1554462304,"main":{"temp":285.62,"pressure":1021,"humidity":66,"temp_min":285.15,"temp_max":286.15},"wind":{"speed":2.1,"deg":150},"clouds":{"all":75},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]}
+{"city":{"id":53654,"name":"Mogadishu","findname":"MOGADISHU","country":"SO","coord":{"lon":45.34375,"lat":2.03711},"zoom":1},"time":1554462304,"main":{"temp":305.15,"pressure":1011,"humidity":59,"temp_min":305.15,"temp_max":305.15},"wind":{"speed":5.1,"deg":100},"clouds":{"all":75},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}]}

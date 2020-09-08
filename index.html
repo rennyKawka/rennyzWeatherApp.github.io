@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <!-- <link rel="stylesheet" href="./dist/css/bootstrap.min.css"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./dist/css/ionicons.css">
+    
+</head>
+<body>
+    <div class="container my-5">
+        <h1 class="text-center title"></h1>
+        <form  class="search-location">
+            <input 
+                type="text"
+                name="city"
+                placeholder="find city..."
+                autocomplete="off"
+                class="form-control text-muted form-rounded p-4 shadow-sm"
+            />
+        </form>
+
+        <div class="card rounded my-3 shadow-lg d-none back-card">
+            <div class="card-top text-center">
+                <div class="city-name my3">
+                    <p>Kampala, Ug</p>
+                    <span>.....</span>
+                </div>
+                <img src="./img/bg/midnight.jpg" 
+                    class=" card-img-top time"    
+                    alt="">
+            </div>
+            <div class="card-body">
+
+            </div>
+        </div>
+    </div>
+    
+    <script src="./request.js"></script>
+    <script src="./index.js"></script>
+    <script src="./main.js"></script>
+</body>
+</html>

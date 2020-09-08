@@ -1,0 +1,116 @@
+body{
+    background-color: #cccccc;
+    color: #575656;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+.container{
+    max-width: 400px;
+    min-width: 400px;
+}
+
+.title{
+    font-weight: 700px;
+    font-size: 50px;
+    font-family: calbric;
+}
+
+.form-rounded{
+    border-radius: 2em;
+}
+
+.back-card{
+    border-radius: 40px !important;
+}
+
+.city-name{
+    position: absolute;
+    width: 100%;
+}
+
+.city-name p{
+    font-family: algerian;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.city-name span{
+    font-weight: 400;
+    font-size: 36px;
+    font-family: algerian;
+    position: relative;
+    top: -50px;
+}
+
+.card-img-top{
+    border-radius: 35px 35px 0 0;
+    background-color: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 208, 205, 0.04));
+}
+
+.temp span{
+    font-weight: 100;
+    font-size: 5em;
+    letter-spacing: -5px;
+    white-space: nowrap;
+}
+
+.card-mid{
+    line-height: 0.5;
+}
+
+.condition{
+    line-height: 1em;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+.high::before{
+    content: '';
+    background: url(./img/icon/iconfinder_Moon_5729385.svg) no-repeat;
+    width: 10px;
+    height: 15px;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}
+
+.low::before{
+    content: '';
+    width: 10px;
+    height: 15px;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}
+
+.icon-condition{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: #20202020;
+}
+
+icon-condition img{
+    margin: auto;
+}
+
+.w_25{
+    width: 25%;
+}
+
+.card-bottom{
+    line-height: 0.5;
+}
+.card-bottom span{ 
+    font-size: 12px;
+
+}
+
+.card-bottom p{ 
+    font-size: 50px;
+    font-weight: 100;
+    letter-spacing: -2px;
+}
+
