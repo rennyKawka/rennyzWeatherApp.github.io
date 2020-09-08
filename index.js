@@ -1,3 +1,4 @@
+const appTitle = document.querySelector('.title');
 const searchForm = document.querySelector('.search-location');
 const cityValue = document.querySelector('.search-location input');
 const cityName = document.querySelector('.city-name p');
